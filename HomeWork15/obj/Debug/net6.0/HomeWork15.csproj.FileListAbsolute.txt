@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/bin/Debug/net6.0/HomeWork15
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/bin/Debug/net6.0/HomeWork15.deps.json
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/bin/Debug/net6.0/HomeWork15.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/bin/Debug/net6.0/HomeWork15.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/bin/Debug/net6.0/HomeWork15.pdb
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/refint/HomeWork15.dll
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.pdb
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/HomeWork15.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/HomeWorkPLSeminar2/HomeWork15/obj/Debug/net6.0/ref/HomeWork15.dll
